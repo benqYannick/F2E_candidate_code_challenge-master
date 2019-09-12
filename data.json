@@ -10,21 +10,21 @@
 		{
 			"msg_id": 1,
 			"msg_title": "Item 2",
-			"msg_type": "LCD01",
+			"msg_type": "LCD",
 			"msg_icon": "https://benqyannick.github.io/F2E_candidate_code_challenge-master/LCD01.png",
 			"completed": false
 		},
 		{
 			"msg_id": 2,
 			"msg_title": "Item 3",
-			"msg_type": "LCD02",
+			"msg_type": "LCD",
 			"msg_icon": "https://benqyannick.github.io/F2E_candidate_code_challenge-master/LCD02.jpg",
 			"completed": true
 		},	
 		{
 			"msg_id": 3,
 			"msg_title": "Item 4",
-			"msg_type": "LCD01",
+			"msg_type": "LCD",
 			"msg_icon": "https://benqyannick.github.io/F2E_candidate_code_challenge-master/LCD01.png",
 			"completed": true
 		},	
